@@ -1,7 +1,6 @@
 ### E aí galeraaaa! 😄
-Seja Bem Vindo(a)!!  meu nome é Aldo Pereira. <br>
-Atualmente moro em Goiânia-GO.
-Sou estudande de Sistemas de Informação pelo Instituto Federal de Goiás. <br>
+Seja Bem Vindo(a)!!! <br> meu nome é Aldo Pereira. <br>
+Atualmente moro em Goiânia-GO, sou estudande de Sistemas de Informação pelo Instituto Federal de Goiás. <br>
 Meu objetivo é me tornar um desenvolvedor Full-Stack. Procuro estágio na área de desenvolvimento de software.
 <br>
 
@@ -32,3 +31,5 @@ Estas são algumas das tecnologias e ferramentas com as quais eu tenho conhecime
 
 <hr>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aldo-pereira22.aldo-pereira22"/>
+
+README  baseado no meu amigo de faculdade [Felipe Ferreira](https://github.com/FNetoF)
