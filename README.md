@@ -32,4 +32,4 @@ Estas são algumas das tecnologias e ferramentas com as quais eu tenho conhecime
 <hr>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aldo-pereira22.aldo-pereira22"/>
 
-README  baseado no meu amigo de faculdade [Felipe Ferreira](https://github.com/FNetoF)
+README  baseado no meu colega de faculdade [Felipe Ferreira](https://github.com/FNetoF)
