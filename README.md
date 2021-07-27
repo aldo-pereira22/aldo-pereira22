@@ -15,9 +15,10 @@ Estas são algumas das tecnologias e ferramentas com as quais eu tenho conhecime
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white) <br> <br>
 
+#### Commits
 <img width="370" src="https://github-readme-stats.vercel.app/api?username=aldo-pereira22&show_icons=true" alt="Aldo Pereira" /> <br>
-
-<img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-pereira22&theme=buefy&layout=compact" alt="Aldo Pereira" /> <br>
+### Linguagens 
+<img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-pereira22&theme=buefy&layout=compact" alt="Aldo Pereira" /> <br> <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aldo-pereira22.aldo-pereira22"/>
